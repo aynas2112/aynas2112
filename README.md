@@ -1,3 +1,5 @@
+![New Year's cyberpunk green teddy with a laptop aro](https://github.com/aynas2112/aynas2112/assets/95328712/8a88b536-3d4d-49c8-8d53-8683e26eeeea)
+
 <h1 align="center">Sanya Chawla</h1>
 <h2 align="center">Full-Stack Developer | Data Engineer </h2>
 
