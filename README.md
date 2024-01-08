@@ -50,10 +50,10 @@ Stay tranquil, stay caffeinated, and indulge in the joy of coding! 🚴‍♂�
 <br>
 <br>
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=akshats911&theme=dark_dimmed&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience&margin-w=20&no-frame=true" alt="akshats911" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aynas2112&theme=dark_dimmed&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience&margin-w=20&no-frame=true" alt="aynas2112" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshats911&show_icons=true&locale=en&layout=donut&theme=onedark&hide_border=true&langs_count=6" alt="akshats911" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aynas2112&show_icons=true&locale=en&layout=donut&theme=onedark&hide_border=true&langs_count=6" alt="aynas2112" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshats911&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="akshats911" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aynas2112&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="aynas2112" /></p>
